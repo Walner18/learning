@@ -2,11 +2,10 @@
 Segundo parcial.
 ### Walner Comprès Holguìn (2021-0252)
 
-[enlace a la evidencia fotagráfica]
 
-[Link](https://miucateciedu-my.sharepoint.com/:b:/g/personal/20210252_miucateci_edu_do/EbRgRjSC5zJGmBRv6zumDU8BjMAa0PcWGcMDEh7i9ItuTw?e=PIVOuQ)
+[Link de evedencia](https://miucateciedu-my.sharepoint.com/:b:/g/personal/20210252_miucateci_edu_do/EbRgRjSC5zJGmBRv6zumDU8BjMAa0PcWGcMDEh7i9ItuTw?e=PIVOuQ)
 
-**Opinion**
+**Opinion personal**
 
 Me pareció un juego muy interesante creado para ayudar a los jugadores como yo a aprender y comprender los fundamentos de Git y cómo funcionan las sucursales en Git. El juego consta de varios niveles, cada uno de los cuales se centra en un aspecto diferente del control de versiones y sus implicaciones en Git.
 
