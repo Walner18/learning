@@ -3,7 +3,7 @@ Segundo parcial.
 ### Walner Comprès Holguìn (2021-0252)
 
 
-[Link de evedencia](https://miucateciedu-my.sharepoint.com/:b:/g/personal/20210252_miucateci_edu_do/EbRgRjSC5zJGmBRv6zumDU8BjMAa0PcWGcMDEh7i9ItuTw?e=PIVOuQ)
+[Evidencia del juego ](https://miucateciedu-my.sharepoint.com/:b:/g/personal/20210252_miucateci_edu_do/EbRgRjSC5zJGmBRv6zumDU8BjMAa0PcWGcMDEh7i9ItuTw?e=PIVOuQ)
 
 **Opinion personal**
 
