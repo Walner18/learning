@@ -1,9 +1,9 @@
-# learning
+# Learning
 Segundo parcial.
 ### Walner Comprès Holguìn (2021-0252)
 
 
-[Evidencia del juego ](https://miucateciedu-my.sharepoint.com/:b:/g/personal/20210252_miucateci_edu_do/EbRgRjSC5zJGmBRv6zumDU8BjMAa0PcWGcMDEh7i9ItuTw?e=PIVOuQ)
+[Link evidencia del juego ](https://miucateciedu-my.sharepoint.com/:b:/g/personal/20210252_miucateci_edu_do/EbRgRjSC5zJGmBRv6zumDU8BjMAa0PcWGcMDEh7i9ItuTw?e=PIVOuQ)
 
 **Opinion personal**
 
